@@ -3,9 +3,3 @@ contact_links:
   - name: 📖 Documentation
     url: http://oxygent.jd.com/docs/
     about: Check out the project documentation
-  - name: 💬 Discussions
-    url: https://github.com/your-org/oxygent-java/discussions
-    about: Join community discussions
-  - name: 🌟 Examples
-    url: https://github.com/your-org/oxygent-java/tree/master/oxygent-studio/src/main/java/com/jd/oxygent/examples
-    about: Browse code examples
